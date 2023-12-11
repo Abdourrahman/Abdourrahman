@@ -7,7 +7,6 @@ Full stack web developer
 I have the experience to develop web applications and SPAs with modern technology, I use VueJs in my projects in the front-end side and Laravel php framework in the back-end, this experience makes me finish the work early, I like to make the work professional because in the real world web application must be solid and secure and attractive to clients.
 
 * 🌍  I'm based in Tolga, Algeria
-* 🚀  I'm currently working on [Devodoo](http://www.devodoo.com/)
 * 🧠  I'm learning Typescript
 
 <a href="https://www.github.com/Abdourrahman" target="_blank" rel="noreferrer"><img
