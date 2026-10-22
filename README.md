@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm Abdourrahman ðŸ‘‹
-### ðŸš€ AI Developer & Modern Full-Stack Engineer
+# Hi, I'm Abdourrahman 👋
+### 🚀 AI Developer & Modern Full-Stack Engineer
 
 [![GitHub Followers](https://img.shields.io/github/followers/Abdourrahman?style=for-the-badge&logo=github&labelColor=0d1117&color=0891b2)](https://github.com/Abdourrahman)
 [![X / Twitter](https://img.shields.io/badge/Twitter-@AbdourrahmanBes-1DA1F2?style=for-the-badge&logo=x&labelColor=0d1117)](https://twitter.com/AbdourrahmanBes)
@@ -15,17 +15,17 @@
 
 ---
 
-### ðŸ’« About Me
+### 💫 About Me
 
-- ðŸ¤– **AI & Agents**: Building LLM-powered applications, AI agent systems, context-aware workflows, and intelligent automations.
-- âš¡ **Modern Web & DX**: Crafting sleek, accessible, responsive full-stack apps with **Next.js**, **React**, **Vue.js**, **TypeScript**, and **Tailwind CSS / shadcn/ui**.
-- ðŸ› ï¸ **Scalable Backends & APIs**: Designing resilient microservices and REST/GraphQL APIs with **Python (FastAPI)**, **Node.js**, and **Laravel / PHP**.
-- ðŸ“ Based in **Algeria** ðŸ‡©ðŸ‡¿
-- ðŸ’¬ Let's talk about: **Generative AI, AI Agents, Full-Stack Architecture, and Modern Developer Tooling**.
+- 🤖 **AI & Autonomous Agents**: Building LLM-powered applications, AI agent systems, context-aware workflows, and intelligent automations.
+- ⚡ **Modern Web & DX**: Crafting sleek, accessible, responsive full-stack apps with **Next.js**, **React**, **Vue.js**, **TypeScript**, and **Tailwind CSS / shadcn/ui**.
+- 🛠️ **Scalable Backends & APIs**: Designing resilient microservices and REST/GraphQL APIs with **Python (FastAPI)**, **Node.js**, and **Laravel / PHP**.
+- 📍 Based in **Algeria** 🇩🇿
+- 💬 Let's talk about: **Generative AI, AI Agents, Full-Stack Architecture, and Modern Developer Tooling**.
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Expertise
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-### ðŸ“Š GitHub Activity & Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdourrahman&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" height="165" />
@@ -87,5 +87,5 @@
 ---
 
 <div align="center">
-  <sub>âš¡ Designed for modern intelligence and continuous delivery.</sub>
+  <sub>⚡ Designed for modern intelligence and continuous delivery.</sub>
 </div>
