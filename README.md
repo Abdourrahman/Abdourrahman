@@ -1,46 +1,91 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abderrahmane Bensalah
-=============================================================================================================================================
+<div align="center">
 
-Full stack web developer
-------------------------
+# Hi, I'm Abdourrahman ðŸ‘‹
+### ðŸš€ AI Developer & Modern Full-Stack Engineer
 
-I have the experience to develop web applications and SPAs with modern technology, I use VueJs in my projects in the front-end side and Laravel php framework in the back-end, this experience makes me finish the work early, I like to make the work professional because in the real world web application must be solid and secure and attractive to clients.
+[![GitHub Followers](https://img.shields.io/github/followers/Abdourrahman?style=for-the-badge&logo=github&labelColor=0d1117&color=0891b2)](https://github.com/Abdourrahman)
+[![X / Twitter](https://img.shields.io/badge/Twitter-@AbdourrahmanBes-1DA1F2?style=for-the-badge&logo=x&labelColor=0d1117)](https://twitter.com/AbdourrahmanBes)
+[![Email](https://img.shields.io/badge/Email-rivalvoy@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rivalvoy@gmail.com)
 
-* 🌍  I'm based in Tolga, Algeria
-* 🧠  I'm learning Typescript
-
-<a href="https://www.github.com/Abdourrahman" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Abdourrahman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/AbdourrahmanBes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AbdourrahmanBes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <em>Architecting intelligent AI solutions, autonomous agent workflows, and high-performance modern web applications.</em>
 </p>
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Abdourrahman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AbdourrahmanBes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### ðŸ’« About Me
 
-### Badges
+- ðŸ¤– **AI & Agents**: Building LLM-powered applications, AI agent systems, context-aware workflows, and intelligent automations.
+- âš¡ **Modern Web & DX**: Crafting sleek, accessible, responsive full-stack apps with **Next.js**, **React**, **Vue.js**, **TypeScript**, and **Tailwind CSS / shadcn/ui**.
+- ðŸ› ï¸ **Scalable Backends & APIs**: Designing resilient microservices and REST/GraphQL APIs with **Python (FastAPI)**, **Node.js**, and **Laravel / PHP**.
+- ðŸ“ Based in **Algeria** ðŸ‡©ðŸ‡¿
+- ðŸ’¬ Let's talk about: **Generative AI, AI Agents, Full-Stack Architecture, and Modern Developer Tooling**.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Abdourrahman"><img src="https://github-readme-stats.vercel.app/api?username=Abdourrahman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdourrahman's GitHub stats" /></a>
+### ðŸ› ï¸ Tech Stack & Expertise
 
-<a href="https://github.com/Abdourrahman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdourrahman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+
+#### **AI & Intelligent Systems**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0284C7?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DBs" />
+</p>
+
+#### **Modern Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
+
+#### **Backend, APIs & Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+#### **DevOps & Tooling**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### ðŸ“Š GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdourrahman&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdourrahman&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdourrahman&theme=tokyonight&hide_border=true&stroke=38bdf8" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>âš¡ Designed for modern intelligence and continuous delivery.</sub>
+</div>
